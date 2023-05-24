@@ -1,0 +1,11 @@
+# CONTRIBUTING
+
+## How to run the Dockerfile locally
+
+'''
+docker run -dp 5000:5000 -w /app -v  "/c/Users/Evangelos Tselepidis/Desktop/My Stuff/Python Stuff/MyApis/Store:/app" teclado-site-flask sh -c
+
+OR
+
+flask run
+'''
